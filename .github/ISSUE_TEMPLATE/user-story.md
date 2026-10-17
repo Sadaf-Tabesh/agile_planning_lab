@@ -1,9 +1,9 @@
 ---
 name: User Story
-about: this template is for creating user stories
+about: This template is for creating user stories
 title: ''
 labels: ''
-assignees: ''
+assignees: Sadaf-Tabesh
 
 ---
 
